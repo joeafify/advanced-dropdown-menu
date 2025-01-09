@@ -1,0 +1,7 @@
+body {
+  font-family: sans-serif;
+}
+advanced-select .option {
+  padding: 28px;
+  cursor: pointer;
+}
